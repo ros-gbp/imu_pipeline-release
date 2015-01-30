@@ -2,6 +2,12 @@
 Changelog for package imu_pipeline
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2015-01-30)
+------------------
+* Remove Chad as a maintainer
+* Refactor imu_pipeline into a metapackage
+* Contributors: Paul Bovbel
+
 0.1.3 (2014-03-30)
 ------------------
 
