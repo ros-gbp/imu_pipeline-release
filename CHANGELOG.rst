@@ -2,6 +2,11 @@
 Changelog for package imu_transformer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2015-02-04)
+------------------
+* Fix nodelet install
+* Contributors: Paul Bovbel
+
 0.2.0 (2015-01-30)
 ------------------
 * Add imu_transformer node/nodelet combination using tf2
