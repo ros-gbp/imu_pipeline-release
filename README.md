@@ -1,3 +1,27 @@
+## imu_pipeline (indigo) - 0.2.1-0
+
+The packages in the `imu_pipeline` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo imu_pipeline` on `Wed, 04 Feb 2015 18:41:02 -0000`
+
+These packages were released:
+- `imu_pipeline`
+- `imu_processors`
+- `imu_transformer`
+
+Version of package(s) in repository `imu_pipeline`:
+- upstream repository: https://github.com/ros-perception/imu_pipeline
+- release repository: https://github.com/ros-gbp/imu_pipeline-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.17`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.1`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## imu_pipeline (indigo) - 0.2.0-0
 
 The packages in the `imu_pipeline` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo imu_pipeline` on `Fri, 30 Jan 2015 15:50:30 -0000`
