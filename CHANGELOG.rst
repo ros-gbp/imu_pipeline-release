@@ -2,6 +2,9 @@
 Changelog for package imu_pipeline
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2015-02-04)
+------------------
+
 0.2.0 (2015-01-30)
 ------------------
 * Remove Chad as a maintainer
