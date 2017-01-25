@@ -1,0 +1,12 @@
+Source: ros-kinetic-imu-transformer
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-message-filters, ros-kinetic-nodelet, ros-kinetic-roscpp, ros-kinetic-roslaunch, ros-kinetic-sensor-msgs, ros-kinetic-tf2, ros-kinetic-tf2-ros, ros-kinetic-tf2-sensor-msgs, ros-kinetic-topic-tools
+Homepage: http://ros.org/wiki/imu_transformer
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-imu-transformer
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-message-filters, ros-kinetic-nodelet, ros-kinetic-roscpp, ros-kinetic-roslaunch, ros-kinetic-sensor-msgs, ros-kinetic-tf, ros-kinetic-tf2, ros-kinetic-tf2-ros, ros-kinetic-tf2-sensor-msgs, ros-kinetic-topic-tools
+Description: Node/nodelet combination to transform sensor_msgs::Imu data from one frame into another.
