@@ -1,3 +1,29 @@
+## imu_pipeline (jade) - 0.2.2-0
+
+The packages in the `imu_pipeline` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade imu_pipeline --new-track` on `Wed, 25 Jan 2017 05:26:28 -0000`
+
+These packages were released:
+- `imu_pipeline`
+- `imu_processors`
+- `imu_transformer`
+
+Version of package(s) in repository `imu_pipeline`:
+
+- upstream repository: https://github.com/ros-perception/imu_pipeline
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## imu_pipeline (kinetic) - 0.2.2-0
 
 The packages in the `imu_pipeline` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic imu_pipeline --new-track` on `Wed, 25 Jan 2017 05:23:16 -0000`
