@@ -1,0 +1,12 @@
+Source: ros-jade-imu-processors
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-geometry-msgs, ros-jade-nav-msgs, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-tf
+Homepage: http://ros.org/wiki/imu_processors
+Standards-Version: 3.9.2
+
+Package: ros-jade-imu-processors
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-geometry-msgs, ros-jade-nav-msgs, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-tf
+Description: Processors for sensor_msgs::Imu data
