@@ -2,6 +2,12 @@
 Changelog for package imu_transformer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.3 (2019-01-30)
+------------------
+* update to use non deprecated pluginlib macro
+* Updated maintainers.
+* Contributors: Mikael Arguedas, Tony Baltovski
+
 0.2.2 (2017-01-25)
 ------------------
 * imu_transformer: Fix build with CATKIN_ENABLE_TESTIING=OFF
