@@ -1,0 +1,12 @@
+Source: ros-lunar-imu-transformer
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-message-filters, ros-lunar-nodelet, ros-lunar-roscpp, ros-lunar-roslaunch, ros-lunar-sensor-msgs, ros-lunar-tf2, ros-lunar-tf2-ros, ros-lunar-tf2-sensor-msgs, ros-lunar-topic-tools
+Homepage: http://ros.org/wiki/imu_transformer
+Standards-Version: 3.9.2
+
+Package: ros-lunar-imu-transformer
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-geometry-msgs, ros-lunar-message-filters, ros-lunar-nodelet, ros-lunar-roscpp, ros-lunar-roslaunch, ros-lunar-sensor-msgs, ros-lunar-tf, ros-lunar-tf2, ros-lunar-tf2-ros, ros-lunar-tf2-sensor-msgs, ros-lunar-topic-tools
+Description: Node/nodelet combination to transform sensor_msgs::Imu data from one frame into another.
