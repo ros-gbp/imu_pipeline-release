@@ -1,0 +1,12 @@
+Source: ros-melodic-imu-processors
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-tf
+Homepage: http://ros.org/wiki/imu_processors
+Standards-Version: 3.9.2
+
+Package: ros-melodic-imu-processors
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-tf
+Description: Processors for sensor_msgs::Imu data
