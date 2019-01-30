@@ -1,3 +1,29 @@
+## imu_pipeline (lunar) - 0.2.3-0
+
+The packages in the `imu_pipeline` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -r lunar -t lunar imu_pipeline --new-track` on `Wed, 30 Jan 2019 19:47:10 -0000`
+
+These packages were released:
+- `imu_pipeline`
+- `imu_processors`
+- `imu_transformer`
+
+Version of package(s) in repository `imu_pipeline`:
+
+- upstream repository: https://github.com/ros-perception/imu_pipeline
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.0`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## imu_pipeline (kinetic) - 0.2.3-0
 
 The packages in the `imu_pipeline` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic imu_pipeline` on `Wed, 30 Jan 2019 19:42:44 -0000`
