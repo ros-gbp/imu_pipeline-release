@@ -1,3 +1,29 @@
+## imu_pipeline (noetic) - 0.3.0-2
+
+The packages in the `imu_pipeline` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic imu_pipeline --new-track` on `Thu, 04 Jun 2020 05:52:56 -0000`
+
+These packages were released:
+- `imu_pipeline`
+- `imu_processors`
+- `imu_transformer`
+
+Version of package(s) in repository `imu_pipeline`:
+
+- upstream repository: https://github.com/ros-perception/imu_pipeline
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.3.0-1`
+- new version: `0.3.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## imu_pipeline (noetic) - 0.3.0-1
 
 The packages in the `imu_pipeline` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic imu_pipeline --new-track` on `Thu, 04 Jun 2020 05:47:47 -0000`
