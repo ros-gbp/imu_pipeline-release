@@ -1,0 +1,12 @@
+Source: ros-noetic-imu-processors
+Section: misc
+Priority: optional
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-tf
+Homepage: http://ros.org/wiki/imu_processors
+Standards-Version: 3.9.2
+
+Package: ros-noetic-imu-processors
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-tf
+Description: Processors for sensor_msgs::Imu data
