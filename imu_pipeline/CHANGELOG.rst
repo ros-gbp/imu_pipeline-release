@@ -2,12 +2,8 @@
 Changelog for package imu_pipeline
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.3.1 (2022-11-22)
+0.2.4 (2022-11-22)
 ------------------
-
-0.3.0 (2020-06-04)
-------------------
-* Bump CMake version to avoid CMP0048 warning.
 * Updated to package.xml format 2.
 * Contributors: Tony Baltovski
 
