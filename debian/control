@@ -1,0 +1,12 @@
+Source: ros-melodic-imu-pipeline
+Section: misc
+Priority: optional
+Maintainer: Paul Bovbel <pbovbel@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://ros.org/wiki/imu_pipeline
+Standards-Version: 3.9.2
+
+Package: ros-melodic-imu-pipeline
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-imu-processors, ros-melodic-imu-transformer
+Description: imu_pipeline
