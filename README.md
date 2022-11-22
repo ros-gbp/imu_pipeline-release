@@ -1,3 +1,29 @@
+## imu_pipeline (melodic) - 0.2.4-1
+
+The packages in the `imu_pipeline` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic imu_pipeline` on `Tue, 22 Nov 2022 15:46:34 -0000`
+
+These packages were released:
+- `imu_pipeline`
+- `imu_processors`
+- `imu_transformer`
+
+Version of package(s) in repository `imu_pipeline`:
+
+- upstream repository: https://github.com/ros-perception/imu_pipeline
+- release repository: https://github.com/ros-gbp/imu_pipeline-release.git
+- rosdistro version: `0.2.3-0`
+- old version: `0.2.3-0`
+- new version: `0.2.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## imu_pipeline (noetic) - 0.3.1-1
 
 The packages in the `imu_pipeline` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic imu_pipeline` on `Tue, 22 Nov 2022 15:39:11 -0000`
